@@ -1,0 +1,46 @@
+*{
+	width:100%;
+	font-size:12pt;
+	font-family:sans-serif;
+	background:white;
+	color:black;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	display:block;
+	top:0%;
+	height:auto;
+	opacity:1;
+	border:none;
+	text-shadow:none;
+	border:none;
+	font-weight:normal;
+}
+body{
+	background:white;
+}
+aside, nav, img {
+    display:none;
+}
+
+header,footer{
+	box-shadow:none;
+	background:none;
+	border:none;
+}
+
+h1,h2,h3{
+	margin-top:0px;
+	text-shadow:none;
+	color:black;
+	font-size:12pt;
+	text-align:left;
+}
+[class*="col-"] {
+    width: 100%; 
+	background:white;
+	text-align:left;
+}
+script {
+	display: none;
+}
